@@ -1,4 +1,4 @@
-## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSaverFoods%2Fgost-heroku)
+## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSaverFoods%2Fgosku)
 
 > 1. 服务端部署后，view查看，显示`404 page not found`，表示部署成功。
 
@@ -7,7 +7,7 @@
 >    gost.exe -L=:1080 -F=ss+mwss://method:password@appname.herokuapp.com:443
 > ```
 
-> 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
+> 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.1)
  
 > 4.  技术文档[站点](https://docs.ginuerzh.xyz/gost/)
 
